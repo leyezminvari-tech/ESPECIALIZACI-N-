@@ -1,10 +1,10 @@
 # Ensayo: Evolución del sistema de salud
 
 **Título:** Evolución del marco legal del sistema de salud colombiano: de la Ley 100 de 1993 a la Resolución 3100 de 2019
-**Curso:** Fundamentos de Calidad en Salud — Especialización en Gerencia y Auditoría de la Calidad en Salud
+**Curso:** [Nombre del curso — distinto al del foro "La gestión del riesgo como modelo de calidad", pendiente de confirmar] — Especialización en Gerencia y Auditoría de la Calidad en Salud
 **Autora:** Yina Vanessa Cadena Mantilla
 
-> Nota para la portada final en Word: confirmar el número de semana, el nombre del docente y la fecha exacta de entrega (se deja 17 de septiembre de 2026 como fecha por defecto).
+> Nota para la portada final en Word: confirmar el nombre del curso, el número de semana, el nombre del docente y la fecha exacta de entrega (se deja 18 de septiembre de 2026 como fecha por defecto). Este ensayo es de un curso distinto al de los Foros de esta carpeta — no asumir que comparten curso.
 
 ## Introducción
 
