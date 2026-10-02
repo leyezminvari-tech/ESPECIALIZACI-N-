@@ -1,0 +1,21 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-02T12:00:00Z"},
+  "lists": "css",
+  "title": "Calidad en salud: ¿norma o realidad?",
+  "cover": "cover",
+  "order": ["cover", "intro", "marco", "sogc", "componentes", "habilitacion", "pamec", "sic", "acreditacion", "actores-rectoria", "actores-red", "usuarios", "brechas", "importancia", "propuestas", "cierre", "referencias"],
+  "sections": {
+    "s1": {"description": "Apertura: título y planteamiento del problema central.", "start": "cover"},
+    "s2": {"description": "Marco conceptual y normativo del SOGC.", "start": "marco"},
+    "s3": {"description": "Los cuatro componentes del SOGC según el Decreto 1011 de 2006.", "start": "componentes"},
+    "s4": {"description": "Cómo se aplica el marco legal a cada actor del sistema.", "start": "actores-rectoria"},
+    "s5": {"description": "Respuesta al problema central: brechas, importancia y propuestas.", "start": "brechas"},
+    "s6": {"description": "Conclusiones, posición crítica y referencias.", "start": "cierre"}
+  },
+  "faces": {
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400..700;1,400..700&display=swap"},
+    "ibm-plex-sans": {"family": "IBM Plex Sans", "href": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"}
+  },
+  "designSystems": []
+}
